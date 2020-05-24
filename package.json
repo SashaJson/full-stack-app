@@ -1,5 +1,5 @@
 {
-  "name": "rest-api",
+  "name": "resta",
   "version": "1.0.0",
   "description": "rest api fullstack",
   "main": "index.js",
@@ -22,5 +22,13 @@
   "devDependencies": {
     "cors": "^2.8.5",
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaJson/fullStackApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SashaJson/fullStackApp/issues"
+  },
+  "homepage": "https://github.com/SashaJson/fullStackApp#readme"
 }
