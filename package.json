@@ -8,7 +8,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Alexander Shulga",
+  "author": "Alexander Shulga (sashamiller666@gmail.com)",
   "license": "ISC",
   "dependencies": {
     "ajv": "^6.12.2",
